@@ -1,8 +1,9 @@
 # StatusLooping
-Simple Status Looping for a Discord Bot.
+A Status which is in loop for a Discord Bot
 
 ## Language 
 - Python
 
 ## Features
-- Status looping
+- Looped Status
+- Configurable Messages  
