@@ -1,5 +1,5 @@
 # StatusLooping
-A Status which is in loop for a Discord Bot
+Discord Bot Status which is in loop.
 
 ## Language 
 - Python
